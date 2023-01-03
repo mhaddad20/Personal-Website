@@ -358,7 +358,7 @@ section:nth-of-type(2) {
   background-color: white;
   padding: 14px 41px;
   position: relative;
-  border-radius: 9px;
+  border-radius: 8px;
   transition: 0.40s;
   -o-transition: 0.5s;
   -webkit-transition: 0.43s;
