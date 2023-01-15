@@ -359,7 +359,7 @@ section:nth-of-type(2) {
   padding: 14px 41px;
   position: relative;
   border-radius: 9px;
-  transition: 0.40s;
+  transition: 0.30s;
   -o-transition: 0.5s;
   -webkit-transition: 0.3s;
   -moz-transition: 0.4s;
